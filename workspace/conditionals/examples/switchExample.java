@@ -5,17 +5,17 @@
 		 * switch(statement)
 		 * {
 		 *		case 1 : Instruction1;
-		 *				 break;
+		 *		         break;
 		 *
 		 *		case 2 : Instruction2;
-		 *				 break;
+		 *		         break;
 		 *		...
 		 *
 		 *		case n : Instruction2;
-		 *				 break;
+		 *		         break;
 		 *
 		 *		default: caseElse
-		 *				 break;
+		 *		         break;
 		 * }
 		 */
 
