@@ -3,9 +3,9 @@
  * 	== : Equality
  * 	!= : Difference
  * 	>  : Greater than
- *  >= : Greater or equal than
- *  <  : Less than
- *  <= : Less or equal than
+ *  	>= : Greater or equal than
+ *  	<  : Less than
+ *  	<= : Less or equal than
  */
 
 package conditionals.examples;
